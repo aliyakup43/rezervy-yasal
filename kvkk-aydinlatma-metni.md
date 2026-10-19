@@ -4,7 +4,7 @@ title: KVKK Aydınlatma Metni
 
 # Randevum — Kişisel Verilerin Korunması Kanunu Kapsamında Aydınlatma Metni
 
-**Sürüm 1 · Son güncelleme: 19 Ekim 2026**
+**Sürüm 1.1 · Son güncelleme: 19 Ekim 2026**
 
 Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu'nun ("KVKK") 10. maddesi uyarınca, Randevum mobil uygulamasını ("Uygulama") kullanan müşteriler, işletme sahipleri ve işletmelerin Uygulama'ya kaydettiği kişiler hakkında bilgilendirme amacıyla hazırlanmıştır.
 
@@ -24,11 +24,11 @@ Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu'nun ("KVKK") 10. ma
 | Müşteriler | Kimlik ve iletişim | Ad soyad, cep telefonu numarası |
 | Müşteriler | Konum (beyan) | Arama için seçtiğin il ve ilçe |
 | Müşteriler | Müşteri işlem | Randevuların: işletme, hizmet, personel, tarih ve saat, durum (bekliyor, onaylandı, reddedildi, iptal edildi) |
-| İşletme sahipleri | İşletme bilgileri | İşletme adı, kategorisi, il, ilçe, adres, açıklama, işletme telefonu |
+| İşletme sahipleri | İşletme bilgileri | İşletme adı, kategorisi, il, ilçe, adres, açıklama, işletme telefonu, yüklediyse işletme logosu |
 | İşletme sahipleri | İşletme işlem | Hizmetler, fiyatlar, çalışma saatleri, personel adları, randevu ayarları |
 | İşletmelerin elle randevu eklediği kişiler | Kimlik ve iletişim | Ad soyad ve (verildiyse) cep telefonu, randevu bilgileri |
 
-Uygulama; konum servisi (GPS), rehber, fotoğraf, mikrofon veya kamera verilerine erişmez. Özel nitelikli kişisel veri (sağlık, din, biyometrik veri vb.) toplanmaz; açıklama gibi serbest metin alanlarına bu tür bilgileri yazmaman rica edilir.
+Uygulama; konum servisi (GPS), rehber, mikrofon veya kamera verilerine erişmez. Fotoğraf arşivine yalnızca işletme sahibi logo seçerken, kendi seçtiği tek bir görsel için erişilir. Logolar herkese açık olarak gösterilir; logo olarak bir kişinin fotoğrafını yüklememen önerilir. Özel nitelikli kişisel veri (sağlık, din, biyometrik veri vb.) toplanmaz; açıklama gibi serbest metin alanlarına bu tür bilgileri yazmaman rica edilir.
 
 ## 3. İşleme amaçları ve hukuki sebepler
 
@@ -66,7 +66,7 @@ Kişisel veriler; Uygulama'ya kayıt olurken ve Uygulama'yı kullanırken senin 
 ## 6. Saklama süresi
 
 - Hesap ve profil bilgileri hesabın açık olduğu sürece saklanır.
-- Hesabını Uygulama içinden ("Hesabımı sil") sildiğinde; profilin, randevuların ve işletme sahibiysen işletmenin, hizmetlerin, personelin ve işletmenin randevuları kalıcı olarak silinir.
+- Hesabını Uygulama içinden ("Hesabımı sil") sildiğinde; profilin, randevuların ve işletme sahibiysen işletmenin, logonun, hizmetlerin, personelin ve işletmenin randevuları kalıcı olarak silinir.
 - Sunucu kayıtları ve teknik yedekler, hizmet sağlayıcıların sınırlı saklama süreleri sonunda silinir.
 - Hukuki bir uyuşmazlık veya yetkili kurum talebi halinde, ilgili veriler bu süreç boyunca saklanabilir.
 
