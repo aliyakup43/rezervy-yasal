@@ -10,11 +10,9 @@ Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu'nun ("KVKK") 10. ma
 
 ## 1. Veri sorumlusu
 
-| | |
-|---|---|
-| Veri sorumlusu | Ali Yakup Karabulut |
-| Adres | Simav, Kütahya |
-| E-posta | [aliyakup89@gmail.com](mailto:aliyakup89@gmail.com) |
+- **Veri sorumlusu:** Ali Yakup Karabulut
+- **Adres:** Simav, Kütahya
+- **E-posta:** [aliyakup89@gmail.com](mailto:aliyakup89@gmail.com)
 
 ## 2. İşlenen kişisel veriler
 
