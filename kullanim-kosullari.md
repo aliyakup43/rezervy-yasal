@@ -4,7 +4,7 @@ title: Kullanım Koşulları
 
 # Randevum Kullanım Koşulları
 
-**Sürüm 1 · Son güncelleme: 19 Ekim 2026**
+**Sürüm 1.1 · Son güncelleme: 19 Ekim 2026**
 
 Bu koşullar, Ali Yakup Karabulut ("Randevum", "biz") tarafından sunulan Randevum mobil uygulamasının ("Uygulama") kullanımını düzenler. Uygulama'yı kullanarak bu koşulları kabul etmiş olursun. Kişisel verilerin nasıl işlendiği [KVKK Aydınlatma Metni](kvkk-aydinlatma-metni.html) ve [Gizlilik Politikası](gizlilik-politikasi.html)'nda açıklanmıştır.
 
@@ -46,7 +46,9 @@ Uygulama'yı kullanırken şunları yapamazsın:
 - Hukuka, genel ahlaka aykırı, hakaret, nefret söylemi veya yanıltıcı bilgi içeren içerik girmek,
 - Uygulama'nın güvenliğini aşmaya, sistemlere izinsiz erişmeye, otomatik araçlarla veri toplamaya veya Uygulama'nın çalışmasını bozmaya çalışmak.
 
-Bu kurallara aykırı kullanımda ilgili içerik kaldırılabilir, hesap askıya alınabilir veya kapatılabilir.
+Sahte, kapanmış, yanlış bilgili veya uygunsuz içerikli bir işletme görürsen işletme sayfasındaki **"İşletmeyi bildir"** ile bildirebilirsin. Bildirimler incelenir.
+
+Bu kurallara aykırı kullanımda ilgili içerik kaldırılabilir, işletme yayından kaldırılabilir, hesap askıya alınabilir veya kapatılabilir.
 
 ## 6. Hizmetin sürekliliği ve sorumluluk
 

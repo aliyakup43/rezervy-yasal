@@ -4,7 +4,7 @@ title: Gizlilik Politikası
 
 # Randevum Gizlilik Politikası
 
-**Sürüm 1.1 · Son güncelleme: 19 Ekim 2026**
+**Sürüm 1.2 · Son güncelleme: 19 Ekim 2026**
 
 Randevum ("Uygulama"), işletmelerin hizmetlerini ve personelini tanımladığı, müşterilerin bu işletmelerden randevu aldığı ücretsiz bir mobil uygulamadır. Bu politika, Uygulama'yı kullanırken hangi bilgilerin toplandığını, nasıl kullanıldığını ve haklarını açıklar. Kişisel verilerin işlenmesine ilişkin ayrıntılı bilgi için [KVKK Aydınlatma Metni](kvkk-aydinlatma-metni.html)'ne bakabilirsin.
 
@@ -16,6 +16,7 @@ Randevum ("Uygulama"), işletmelerin hizmetlerini ve personelini tanımladığı
 - **Profil bilgileri (müşteri):** Ad soyad, cep telefonu, işletme aramak için seçtiğin il ve ilçe.
 - **İşletme bilgileri (işletme sahibi):** İşletme adı, kategorisi, il, ilçe, adres, açıklama, telefon, yüklediyse logo; hizmetler, fiyatlar, çalışma saatleri ve personel adları. İşletme bilgileri ve logo, müşterilerin işletmeyi bulabilmesi için herkese açık gösterilir.
 - **Randevu bilgileri:** Hangi işletmeden, hangi hizmet ve personel için, hangi tarih ve saatte randevu alındığı ve randevunun durumu. İşletmelerin elle eklediği randevularda kişinin adı ve varsa telefonu.
+- **Bildirimler:** "İşletmeyi bildir" ile gönderdiğin sebep ve açıklama. Bildirimin işletmeye gösterilmez; sadece Randevum tarafından incelenir.
 - **Teknik bilgiler:** Uygulama'nın çalışması sırasında sunucularda oluşan kayıtlar (IP adresi, istek zamanı gibi) ve cihazında saklanan oturum bilgisi.
 
 Uygulama konumuna (GPS), rehberine, kamerana veya mikrofonuna erişmez. Fotoğraflarına yalnızca işletme sahibi logo seçerken ve sadece seçtiği görsel için erişilir.
