@@ -4,7 +4,7 @@ title: KVKK Aydınlatma Metni
 
 # Randevum — Kişisel Verilerin Korunması Kanunu Kapsamında Aydınlatma Metni
 
-**Sürüm 1.2 · Son güncelleme: 19 Ekim 2026**
+**Sürüm 1.3 · Son güncelleme: 19 Ekim 2026**
 
 Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu'nun ("KVKK") 10. maddesi uyarınca, Randevum mobil uygulamasını ("Uygulama") kullanan müşteriler, işletme sahipleri ve işletmelerin Uygulama'ya kaydettiği kişiler hakkında bilgilendirme amacıyla hazırlanmıştır.
 
@@ -23,7 +23,8 @@ Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu'nun ("KVKK") 10. ma
 | Tüm kullanıcılar | Hukuki işlem | Kullanım Koşulları'nı kabul ettiğin sürüm ve tarih |
 | Müşteriler | Kimlik ve iletişim | Ad soyad, cep telefonu numarası |
 | Müşteriler | Konum (beyan) | Arama için seçtiğin il ve ilçe |
-| Müşteriler | Müşteri işlem | Randevuların: işletme, hizmet, personel, tarih ve saat, durum (bekliyor, onaylandı, reddedildi, iptal edildi) |
+| Müşteriler | Müşteri işlem | Randevuların: işletme, hizmet, personel, tarih ve saat, durum (bekliyor, onaylandı, reddedildi, iptal edildi, gelmedi) |
+| Müşteriler | Müşteri işlem (işletme tarafında) | Randevu aldığın işletmenin seninle ilgili tuttuğu kısa not ve bu işletmedeki randevu geçmişine dayanan özet (randevu, gelme ve gelmeme sayıları) |
 | Müşteriler | Talep / şikâyet | "İşletmeyi bildir" ile gönderdiğin bildirimler: işletme, sebep, açıklama, tarih |
 | İşletme sahipleri | İşletme bilgileri | İşletme adı, kategorisi, il, ilçe, adres, açıklama, işletme telefonu, yüklediyse işletme logosu |
 | İşletme sahipleri | İşletme işlem | Hizmetler, fiyatlar, çalışma saatleri, personel adları, randevu ayarları |
@@ -39,6 +40,7 @@ Uygulama; konum servisi (GPS), rehber, mikrofon veya kamera verilerine erişmez.
 | Müşterinin randevu alması, işletmenin randevuyu onaylaması, reddetmesi, iptal etmesi ve müşteriyle iletişime geçebilmesi | Sözleşmenin kurulması ve ifası (c) |
 | İşletmelerin il ve ilçeye göre listelenmesi ve aranabilmesi | Sözleşmenin kurulması ve ifası (c) |
 | İşletmenin, Uygulama dışından (telefonla, yüz yüze) aldığı randevuları takvimine işlemesi | İşletmenin meşru menfaati ve sözleşmenin ifası (c, f) |
+| İşletmenin müşterilerini tanıması, randevuya gelmeyen müşterileri görerek randevu taleplerini değerlendirmesi | Sözleşmenin ifası ve işletmenin meşru menfaati (c, f) |
 | Uygulamanın güvenliği, kötüye kullanımın önlenmesi, hataların giderilmesi | Veri sorumlusunun meşru menfaati (f) |
 | Sahte, kapanmış veya uygunsuz içerikli işletmelere ilişkin bildirimlerin incelenmesi | Veri sorumlusunun meşru menfaati (f) |
 | Kullanım Koşulları kabulünün kaydedilmesi, hukuki uyuşmazlıklarda delil | Bir hakkın tesisi, kullanılması veya korunması (e) |
@@ -48,7 +50,7 @@ Kişisel verilerin pazarlama, reklam veya profil çıkarma amacıyla kullanılma
 
 ## 4. Kişisel verilerin aktarılması
 
-**Randevu aldığın işletme:** Randevu aldığında adın soyadın, cep telefonun ve randevu bilgilerin, randevunun yönetilebilmesi ve gerektiğinde seninle iletişim kurulabilmesi için ilgili işletmeyle paylaşılır. İşletme bu verileri kendi sorumluluğunda kullanır.
+**Randevu aldığın işletme:** Randevu aldığında adın soyadın, cep telefonun ve randevu bilgilerin, randevunun yönetilebilmesi ve gerektiğinde seninle iletişim kurulabilmesi için ilgili işletmeyle paylaşılır. İşletme, randevuya gelmediğinde bunu işaretleyebilir ve senin hakkında kendisinin göreceği kısa bir not tutabilir. Bu bilgiler yalnızca o işletmeye aittir; başka işletmelerle paylaşılmaz. İşletme bu verileri kendi sorumluluğunda kullanır.
 
 **Hizmet sağlayıcılar (yurt dışı):** Uygulama'nın çalışması için aşağıdaki hizmet sağlayıcılardan yararlanılır. Bu kullanım, kişisel verilerin yurt dışına aktarılması sonucunu doğurur ve KVKK'nın 9. maddesinde öngörülen şartlara uygun olarak yapılır.
 

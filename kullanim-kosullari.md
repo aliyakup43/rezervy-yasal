@@ -4,7 +4,7 @@ title: Kullanım Koşulları
 
 # Randevum Kullanım Koşulları
 
-**Sürüm 1.1 · Son güncelleme: 19 Ekim 2026**
+**Sürüm 1.2 · Son güncelleme: 19 Ekim 2026**
 
 Bu koşullar, Ali Yakup Karabulut ("Randevum", "biz") tarafından sunulan Randevum mobil uygulamasının ("Uygulama") kullanımını düzenler. Uygulama'yı kullanarak bu koşulları kabul etmiş olursun. Kişisel verilerin nasıl işlendiği [KVKK Aydınlatma Metni](kvkk-aydinlatma-metni.html) ve [Gizlilik Politikası](gizlilik-politikasi.html)'nda açıklanmıştır.
 
@@ -34,6 +34,7 @@ Randevu alınan hizmeti (saç kesimi, bakım, danışmanlık vb.) **işletme** s
 - İşletme bilgilerinin, hizmetlerin, fiyatların ve çalışma saatlerinin doğru ve güncel olmasından işletme sahibi sorumludur.
 - Onaylanan randevulara uyulması beklenir. Zorunlu bir iptal gerekiyorsa müşteriye ayrıca haber verilmesi önerilir.
 - **Müşteri bilgileri:** Randevu alan müşterilerin adı ve telefonu yalnızca o randevunun yönetimi ve müşteriyle randevu hakkında iletişim kurmak için kullanılabilir; reklam, toplu mesaj veya başka amaçlarla kullanılamaz, üçüncü kişilerle paylaşılamaz. İşletme, bu veriler bakımından KVKK kapsamındaki yükümlülüklerinden kendisi sorumludur.
+- **Müşteri notları ve "gelmedi" işareti:** İşletme, müşterisi hakkında yalnızca randevu hizmetiyle ilgili kısa notlar tutabilir; notlara sağlık, din, siyasi görüş gibi özel nitelikli kişisel veriler veya hakaret içeren ifadeler yazılamaz. "Gelmedi" işareti yalnızca müşterinin gerçekten gelmediği randevular için kullanılmalıdır.
 - **Elle eklenen randevular:** İşletme, Uygulama dışından aldığı randevular için kişinin adını ve telefonunu Uygulama'ya girebilir. Bu kişileri verilerinin Uygulama'ya kaydedildiği konusunda bilgilendirmek işletmenin sorumluluğundadır.
 - Gerçekte var olmayan, yanıltıcı veya başkasına ait bir işletme adına hesap açılamaz.
 
