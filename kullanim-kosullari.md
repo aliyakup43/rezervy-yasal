@@ -4,7 +4,7 @@ title: Kullanım Koşulları
 
 # Rezervy Kullanım Koşulları
 
-**Sürüm 1.3 · Son güncelleme: 19 Ekim 2026**
+**Sürüm 1.4 · Son güncelleme: 20 Ekim 2026**
 
 Bu koşullar, Ali Yakup Karabulut ("Rezervy", "biz") tarafından sunulan Rezervy mobil uygulamasının ("Uygulama") kullanımını düzenler. Uygulama'yı kullanarak bu koşulları kabul etmiş olursun. Kişisel verilerin nasıl işlendiği [KVKK Aydınlatma Metni](kvkk-aydinlatma-metni.html) ve [Gizlilik Politikası](gizlilik-politikasi.html)'nda açıklanmıştır.
 
@@ -49,7 +49,7 @@ Uygulama'yı kullanırken şunları yapamazsın:
 
 Sahte, kapanmış, yanlış bilgili veya uygunsuz içerikli bir işletme görürsen işletme sayfasındaki **"İşletmeyi bildir"** ile bildirebilirsin. Bildirimler incelenir.
 
-Bu kurallara aykırı kullanımda ilgili içerik kaldırılabilir, işletme yayından kaldırılabilir, hesap askıya alınabilir veya kapatılabilir.
+Bu kurallara aykırı kullanımda, sahte veya yanıltıcı işletme kayıtlarında ya da yetkili kurumların talebi halinde; ilgili içerik kaldırılabilir, işletme yayından kaldırılabilir veya silinebilir, hesap askıya alınabilir veya kapatılabilir. Silinen hesap ve işletmelerin verileri (randevular dahil) kalıcı olarak silinir.
 
 ## 6. Hizmetin sürekliliği ve sorumluluk
 
