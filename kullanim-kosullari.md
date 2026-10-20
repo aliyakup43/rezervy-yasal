@@ -2,17 +2,17 @@
 title: Kullanım Koşulları
 ---
 
-# Randevum Kullanım Koşulları
+# Rezervy Kullanım Koşulları
 
-**Sürüm 1.2 · Son güncelleme: 19 Ekim 2026**
+**Sürüm 1.3 · Son güncelleme: 19 Ekim 2026**
 
-Bu koşullar, Ali Yakup Karabulut ("Randevum", "biz") tarafından sunulan Randevum mobil uygulamasının ("Uygulama") kullanımını düzenler. Uygulama'yı kullanarak bu koşulları kabul etmiş olursun. Kişisel verilerin nasıl işlendiği [KVKK Aydınlatma Metni](kvkk-aydinlatma-metni.html) ve [Gizlilik Politikası](gizlilik-politikasi.html)'nda açıklanmıştır.
+Bu koşullar, Ali Yakup Karabulut ("Rezervy", "biz") tarafından sunulan Rezervy mobil uygulamasının ("Uygulama") kullanımını düzenler. Uygulama'yı kullanarak bu koşulları kabul etmiş olursun. Kişisel verilerin nasıl işlendiği [KVKK Aydınlatma Metni](kvkk-aydinlatma-metni.html) ve [Gizlilik Politikası](gizlilik-politikasi.html)'nda açıklanmıştır.
 
 ## 1. Hizmetin tanımı
 
 Uygulama; işletmelerin hizmetlerini, personelini ve çalışma saatlerini tanımladığı, müşterilerin bu işletmelerden randevu aldığı bir **aracı platformdur**. Uygulama hem müşteriler hem işletmeler için ücretsizdir.
 
-Randevu alınan hizmeti (saç kesimi, bakım, danışmanlık vb.) **işletme** sunar. Hizmetin içeriği, kalitesi, fiyatı, ödemesi ve hizmetle ilgili her türlü uyuşmazlık müşteri ile işletme arasındadır; Randevum bu hizmetin tarafı değildir. Uygulama üzerinden ödeme alınmaz; gösterilen fiyatlar işletmenin beyanıdır.
+Randevu alınan hizmeti (saç kesimi, bakım, danışmanlık vb.) **işletme** sunar. Hizmetin içeriği, kalitesi, fiyatı, ödemesi ve hizmetle ilgili her türlü uyuşmazlık müşteri ile işletme arasındadır; Rezervy bu hizmetin tarafı değildir. Uygulama üzerinden ödeme alınmaz; gösterilen fiyatlar işletmenin beyanıdır.
 
 ## 2. Hesap
 
@@ -54,12 +54,12 @@ Bu kurallara aykırı kullanımda ilgili içerik kaldırılabilir, işletme yay�
 ## 6. Hizmetin sürekliliği ve sorumluluk
 
 - Uygulama "olduğu gibi" sunulur. Kesintisiz ve hatasız çalışması için makul çaba gösterilir; ancak bakım, teknik arıza veya hizmet sağlayıcılardan kaynaklanan kesintiler olabilir.
-- Randevum; işletmelerin sunduğu hizmetten, işletmelerin veya müşterilerin randevulara uymamasından, işletmelerin girdiği bilgilerin doğruluğundan ve kullanıcılar arasındaki uyuşmazlıklardan sorumlu değildir.
+- Rezervy; işletmelerin sunduğu hizmetten, işletmelerin veya müşterilerin randevulara uymamasından, işletmelerin girdiği bilgilerin doğruluğundan ve kullanıcılar arasındaki uyuşmazlıklardan sorumlu değildir.
 - Yürürlükteki mevzuatın sınırlanmasına izin vermediği sorumluluklar saklıdır.
 
 ## 7. Fikri mülkiyet
 
-Uygulama'nın tasarımı, yazılımı, adı ve logosu Randevum'a aittir. İşletmelerin girdiği içeriklerin (işletme adı, açıklama vb.) sorumluluğu ve hakları işletmeye aittir; işletme, bu içeriklerin Uygulama'da gösterilmesine izin vermiş sayılır.
+Uygulama'nın tasarımı, yazılımı, adı ve logosu Rezervy’ye aittir. İşletmelerin girdiği içeriklerin (işletme adı, açıklama vb.) sorumluluğu ve hakları işletmeye aittir; işletme, bu içeriklerin Uygulama'da gösterilmesine izin vermiş sayılır.
 
 ## 8. Değişiklikler
 
@@ -71,4 +71,4 @@ Bu koşullara Türkiye Cumhuriyeti hukuku uygulanır. Tüketici sıfatıyla tara
 
 ## 10. İletişim
 
-Ali Yakup Karabulut · Simav, Kütahya · [aliyakup89@gmail.com](mailto:aliyakup89@gmail.com)
+Ali Yakup Karabulut · Simav, Kütahya · [rezervyappinfo@gmail.com](mailto:rezervyappinfo@gmail.com)

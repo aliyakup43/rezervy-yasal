@@ -1,11 +1,11 @@
 ---
-title: Randevum yasal metinleri
+title: Rezervy yasal metinleri
 ---
 
-# Randevum yasal metinleri
+# Rezervy yasal metinleri
 
 - [KVKK Aydınlatma Metni](kvkk-aydinlatma-metni.html)
 - [Gizlilik Politikası](gizlilik-politikasi.html)
 - [Kullanım Koşulları](kullanim-kosullari.html)
 
-Sorular ve başvurular için: [aliyakup89@gmail.com](mailto:aliyakup89@gmail.com)
+Sorular ve başvurular için: [rezervyappinfo@gmail.com](mailto:rezervyappinfo@gmail.com)

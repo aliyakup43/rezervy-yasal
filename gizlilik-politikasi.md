@@ -2,13 +2,13 @@
 title: Gizlilik Politikası
 ---
 
-# Randevum Gizlilik Politikası
+# Rezervy Gizlilik Politikası
 
-**Sürüm 1.3 · Son güncelleme: 19 Ekim 2026**
+**Sürüm 1.4 · Son güncelleme: 19 Ekim 2026**
 
-Randevum ("Uygulama"), işletmelerin hizmetlerini ve personelini tanımladığı, müşterilerin bu işletmelerden randevu aldığı ücretsiz bir mobil uygulamadır. Bu politika, Uygulama'yı kullanırken hangi bilgilerin toplandığını, nasıl kullanıldığını ve haklarını açıklar. Kişisel verilerin işlenmesine ilişkin ayrıntılı bilgi için [KVKK Aydınlatma Metni](kvkk-aydinlatma-metni.html)'ne bakabilirsin.
+Rezervy ("Uygulama"), işletmelerin hizmetlerini ve personelini tanımladığı, müşterilerin bu işletmelerden randevu aldığı ücretsiz bir mobil uygulamadır. Bu politika, Uygulama'yı kullanırken hangi bilgilerin toplandığını, nasıl kullanıldığını ve haklarını açıklar. Kişisel verilerin işlenmesine ilişkin ayrıntılı bilgi için [KVKK Aydınlatma Metni](kvkk-aydinlatma-metni.html)'ne bakabilirsin.
 
-**Uygulamayı sunan (veri sorumlusu):** Ali Yakup Karabulut · Simav, Kütahya · [aliyakup89@gmail.com](mailto:aliyakup89@gmail.com)
+**Uygulamayı sunan (veri sorumlusu):** Ali Yakup Karabulut · Simav, Kütahya · [rezervyappinfo@gmail.com](mailto:rezervyappinfo@gmail.com)
 
 ## Topladığımız bilgiler
 
@@ -16,7 +16,7 @@ Randevum ("Uygulama"), işletmelerin hizmetlerini ve personelini tanımladığı
 - **Profil bilgileri (müşteri):** Ad soyad, cep telefonu, işletme aramak için seçtiğin il ve ilçe.
 - **İşletme bilgileri (işletme sahibi):** İşletme adı, kategorisi, il, ilçe, adres, açıklama, telefon, yüklediyse logo; hizmetler, fiyatlar, çalışma saatleri ve personel adları. İşletme bilgileri ve logo, müşterilerin işletmeyi bulabilmesi için herkese açık gösterilir.
 - **Randevu bilgileri:** Hangi işletmeden, hangi hizmet ve personel için, hangi tarih ve saatte randevu alındığı ve randevunun durumu. İşletmelerin elle eklediği randevularda kişinin adı ve varsa telefonu.
-- **Bildirimler:** "İşletmeyi bildir" ile gönderdiğin sebep ve açıklama. Bildirimin işletmeye gösterilmez; sadece Randevum tarafından incelenir.
+- **Bildirimler:** "İşletmeyi bildir" ile gönderdiğin sebep ve açıklama. Bildirimin işletmeye gösterilmez; sadece Rezervy tarafından incelenir.
 - **Teknik bilgiler:** Uygulama'nın çalışması sırasında sunucularda oluşan kayıtlar (IP adresi, istek zamanı gibi) ve cihazında saklanan oturum bilgisi.
 
 Uygulama konumuna (GPS), rehberine, kamerana veya mikrofonuna erişmez. Fotoğraflarına yalnızca işletme sahibi logo seçerken ve sadece seçtiği görsel için erişilir.
@@ -46,7 +46,7 @@ Bilgilerin hesabın açık olduğu sürece saklanır. **Hesabını istediğin za
 - Müşteri: Profil → Hesabımı sil
 - İşletme sahibi: Ayarlar → Hesabımı sil
 
-Hesap silindiğinde profilin ve randevuların; işletme sahibiysen işletmen, logon, hizmetlerin, personelin ve işletmenin bütün randevuları kalıcı olarak silinir. Önümüzdeki 12 saat içinde randevun varsa veya işletmenin yaklaşan randevuları varsa, karşı tarafın habersiz kalmaması için önce bunların sonuçlanması ya da iptal edilmesi gerekir. Uygulama'ya erişemiyorsan silme talebini [aliyakup89@gmail.com](mailto:aliyakup89@gmail.com) adresine iletebilirsin.
+Hesap silindiğinde profilin ve randevuların; işletme sahibiysen işletmen, logon, hizmetlerin, personelin ve işletmenin bütün randevuları kalıcı olarak silinir. Önümüzdeki 12 saat içinde randevun varsa veya işletmenin yaklaşan randevuları varsa, karşı tarafın habersiz kalmaması için önce bunların sonuçlanması ya da iptal edilmesi gerekir. Uygulama'ya erişemiyorsan silme talebini [rezervyappinfo@gmail.com](mailto:rezervyappinfo@gmail.com) adresine iletebilirsin.
 
 ## Güvenlik
 
@@ -66,4 +66,4 @@ Bu politika değişirse güncel sürüm bu sayfada yayımlanır ve önemli deği
 
 ## İletişim
 
-[aliyakup89@gmail.com](mailto:aliyakup89@gmail.com)
+[rezervyappinfo@gmail.com](mailto:rezervyappinfo@gmail.com)

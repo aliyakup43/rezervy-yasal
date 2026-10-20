@@ -2,17 +2,17 @@
 title: KVKK Aydınlatma Metni
 ---
 
-# Randevum — Kişisel Verilerin Korunması Kanunu Kapsamında Aydınlatma Metni
+# Rezervy — Kişisel Verilerin Korunması Kanunu Kapsamında Aydınlatma Metni
 
-**Sürüm 1.3 · Son güncelleme: 19 Ekim 2026**
+**Sürüm 1.4 · Son güncelleme: 19 Ekim 2026**
 
-Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu'nun ("KVKK") 10. maddesi uyarınca, Randevum mobil uygulamasını ("Uygulama") kullanan müşteriler, işletme sahipleri ve işletmelerin Uygulama'ya kaydettiği kişiler hakkında bilgilendirme amacıyla hazırlanmıştır.
+Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu'nun ("KVKK") 10. maddesi uyarınca, Rezervy mobil uygulamasını ("Uygulama") kullanan müşteriler, işletme sahipleri ve işletmelerin Uygulama'ya kaydettiği kişiler hakkında bilgilendirme amacıyla hazırlanmıştır.
 
 ## 1. Veri sorumlusu
 
 - **Veri sorumlusu:** Ali Yakup Karabulut
 - **Adres:** Simav, Kütahya
-- **E-posta:** [aliyakup89@gmail.com](mailto:aliyakup89@gmail.com)
+- **E-posta:** [rezervyappinfo@gmail.com](mailto:rezervyappinfo@gmail.com)
 
 ## 2. İşlenen kişisel veriler
 
@@ -96,7 +96,7 @@ Ad soyad, telefon ve konum bilgilerini Uygulama'daki Profil ekranından her zama
 
 Taleplerini, kimliğini tespit etmeye yarayacak bilgilerle birlikte:
 
-- Uygulama'da kayıtlı e-posta adresinden [aliyakup89@gmail.com](mailto:aliyakup89@gmail.com) adresine e-posta ile veya
+- Uygulama'da kayıtlı e-posta adresinden [rezervyappinfo@gmail.com](mailto:rezervyappinfo@gmail.com) adresine e-posta ile veya
 - yukarıdaki adrese yazılı olarak
 
 iletebilirsin. Başvurular, talebin niteliğine göre en geç 30 gün içinde ücretsiz olarak sonuçlandırılır. Başvurunun reddedilmesi, cevabın yetersiz bulunması veya süresinde cevap verilmemesi halinde Kişisel Verileri Koruma Kurulu'na şikâyette bulunabilirsin.
