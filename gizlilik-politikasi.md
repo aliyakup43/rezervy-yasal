@@ -4,7 +4,7 @@ title: Gizlilik Politikası
 
 # Rezervy Gizlilik Politikası
 
-**Sürüm 1.4 · Son güncelleme: 19 Ekim 2026**
+**Sürüm 1.5 · Son güncelleme: 20 Ekim 2026**
 
 Rezervy ("Uygulama"), işletmelerin hizmetlerini ve personelini tanımladığı, müşterilerin bu işletmelerden randevu aldığı ücretsiz bir mobil uygulamadır. Bu politika, Uygulama'yı kullanırken hangi bilgilerin toplandığını, nasıl kullanıldığını ve haklarını açıklar. Kişisel verilerin işlenmesine ilişkin ayrıntılı bilgi için [KVKK Aydınlatma Metni](kvkk-aydinlatma-metni.html)'ne bakabilirsin.
 
@@ -29,12 +29,13 @@ Uygulama konumuna (GPS), rehberine, kamerana veya mikrofonuna erişmez. Fotoğra
 - İşletmeleri il, ilçe ve kategoriye göre listelemek,
 - Uygulama'nın güvenliğini sağlamak ve hataları gidermek.
 
-**Reklam ve takip:** Uygulama şu an reklam göstermez, seni başka uygulama ve sitelerde takip etmez ve verilerini reklam amacıyla kullanmaz. İleride reklam eklenirse bu politika güncellenir ve cihazının izin ekranı aracılığıyla iznin istenir.
+**Reklam ve takip:** Rezervy'nin ücretsiz kalabilmesi için müşteri ekranlarında Google AdMob reklamları gösterilebilir: Keşfet listesinde "Reklam" etiketli kartlar, Rezervasyonlarım'da bir şerit reklam ve randevu tamamlandıktan sonra sınırlı sayıda tam ekran reklam. Rezervasyon adımlarında ve işletme panelinde reklam yoktur. Reklamlar gösterilmeden önce iPhone'un seni başka uygulama ve sitelerde takip etmek için izin isteyip istemediğimizi sorar (App Tracking Transparency). İzin verirsen Google cihazının reklam kimliğini kullanarak daha ilgili reklamlar gösterebilir; izin vermezsen reklamlar kişiselleştirilmez. Kararını Ayarlar → Gizlilik ve Güvenlik → İzleme bölümünden her zaman değiştirebilirsin. Adın, telefonun, e-postan ve randevu bilgilerin reklam şirketleriyle paylaşılmaz.
 
 ## Bilgileri kimlerle paylaşıyoruz
 
 - **Randevu aldığın işletme:** Adın soyadın, cep telefonun ve randevu bilgilerin. Bu, randevunun yönetilmesi için gereklidir. İşletme, randevuna gelmediğinde bunu işaretleyebilir (Rezervasyonlarım'da "Gelmedi" olarak görürsün) ve senin hakkında yalnızca kendisinin göreceği kısa bir not tutabilir. Bu bilgiler başka işletmelerle paylaşılmaz.
 - **Hizmet sağlayıcılar:** Sunucu ve veritabanı için Supabase (verileri Avrupa Birliği'nde, Fransa'da tutulur), giriş kodu e-postaları için Google. Bu sağlayıcılar verileri yalnızca bu hizmetleri sunmak için işler.
+- **Reklam:** Google AdMob, reklam gösterirken cihaz bilgilerini ve (izin verdiysen) reklam kimliğini kendi gizlilik politikasına göre işler: https://policies.google.com/technologies/ads
 - **Yasal zorunluluklar:** Mevzuatın gerektirdiği hallerde yetkili kurumlar.
 
 Bilgilerini satmayız veya kiralamayız.

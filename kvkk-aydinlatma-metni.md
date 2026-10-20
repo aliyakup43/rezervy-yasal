@@ -4,7 +4,7 @@ title: KVKK Aydınlatma Metni
 
 # Rezervy — Kişisel Verilerin Korunması Kanunu Kapsamında Aydınlatma Metni
 
-**Sürüm 1.4 · Son güncelleme: 19 Ekim 2026**
+**Sürüm 1.5 · Son güncelleme: 20 Ekim 2026**
 
 Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu'nun ("KVKK") 10. maddesi uyarınca, Rezervy mobil uygulamasını ("Uygulama") kullanan müşteriler, işletme sahipleri ve işletmelerin Uygulama'ya kaydettiği kişiler hakkında bilgilendirme amacıyla hazırlanmıştır.
 
@@ -20,6 +20,7 @@ Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu'nun ("KVKK") 10. ma
 |---|---|---|
 | Tüm kullanıcılar | Kimlik ve iletişim | E-posta adresi |
 | Tüm kullanıcılar | İşlem güvenliği | Giriş kodları, oturum bilgileri, sunucu kayıtlarındaki IP adresi ve istek bilgileri |
+| Müşteriler | Reklam | Reklam gösterildiğinde Google'ın topladığı cihaz ve reklam bilgileri: IP adresi, cihaz modeli ve işletim sistemi, reklam görüntüleme ve tıklama bilgisi; takip iznini verdiysen cihazın reklam kimliği (IDFA) |
 | Tüm kullanıcılar | Hukuki işlem | Kullanım Koşulları'nı kabul ettiğin sürüm ve tarih |
 | Müşteriler | Kimlik ve iletişim | Ad soyad, cep telefonu numarası |
 | Müşteriler | Konum (beyan) | Arama için seçtiğin il ve ilçe |
@@ -46,7 +47,7 @@ Uygulama; konum servisi (GPS), rehber, mikrofon veya kamera verilerine erişmez.
 | Kullanım Koşulları kabulünün kaydedilmesi, hukuki uyuşmazlıklarda delil | Bir hakkın tesisi, kullanılması veya korunması (e) |
 | Yetkili kurumların talepleri ve mevzuattan doğan yükümlülükler | Hukuki yükümlülük (ç) |
 
-Kişisel verilerin pazarlama, reklam veya profil çıkarma amacıyla kullanılması şu an söz konusu değildir. Bu tür bir işleme başlanırsa bu metin güncellenir ve gerekiyorsa açık rızan ayrıca istenir.
+**Reklam:** Uygulama'nın ücretsiz sunulabilmesi için müşteri ekranlarında (Keşfet, Rezervasyonlarım ve randevu tamamlandıktan sonra) Google AdMob aracılığıyla reklam gösterilebilir; rezervasyon adımlarında ve işletme panelinde reklam gösterilmez. Kişiselleştirilmiş reklam yalnızca cihazının izin ekranında (App Tracking Transparency) ve gerekiyorsa reklam onayı ekranında izin vermen halinde, **açık rızana** (KVKK m. 5/1) dayanılarak gösterilir. İzin vermezsen reklamlar kişiselleştirilmez. İznini iPhone'unda Ayarlar → Gizlilik ve Güvenlik → İzleme bölümünden her zaman geri alabilirsin. Adın, telefonun, e-postan ve randevu bilgilerin reklam şirketleriyle paylaşılmaz.
 
 ## 4. Kişisel verilerin aktarılması
 
@@ -58,6 +59,7 @@ Kişisel verilerin pazarlama, reklam veya profil çıkarma amacıyla kullanılma
 |---|---|---|
 | Supabase, Inc. | Veritabanı, kimlik doğrulama ve sunucu altyapısı | Avrupa Birliği (Fransa) |
 | Google LLC | Giriş kodu e-postalarının gönderilmesi | Google'ın veri merkezleri |
+| Google LLC (AdMob) | Reklam gösterimi ve ölçümü | Google'ın veri merkezleri |
 
 **Yetkili kurumlar:** Mevzuatın zorunlu kıldığı hallerde yetkili kamu kurum ve kuruluşları ile yargı mercilerine.
 
